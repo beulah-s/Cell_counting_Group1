@@ -2,9 +2,9 @@
 Codes and explanation to codes used in the cell counting project
 
 ### Aim
-Automation of the cell counting task will save time spent on manually counting cells
-Build a machine learning model with Convolutional Neural Networks to count cells from microscope images
-Input an image and let the model output the number of cells
+#Automation of the cell counting task will save time spent on manually counting cells
+#Build a machine learning model with Convolutional Neural Networks to count cells from microscope images
+#Input an image and let the model output the number of cells
 
 ### Pre-train
 Use ResNet-18 and VGG16 as baseline models to run experiments on the training dataset.
