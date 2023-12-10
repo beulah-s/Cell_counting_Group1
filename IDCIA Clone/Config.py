@@ -1,7 +1,7 @@
 import os
 
-MASKS_DIRECTORY = os.path.join("C:/Users/beula/IDCIA Clone/", "ground_truth")
-IMAGES_DIRECTORY = os.path.join("C:/Users/beula/IDCIA Clone/", "images")
+MASKS_DIRECTORY = os.path.join("C:/Users/beula/IDCIA Clone/", "ground_truth") #add your respective directory
+IMAGES_DIRECTORY = os.path.join("C:/Users/beula/IDCIA Clone/", "images") #add your respective directory
 BATCH_SIZE = 32
 
 import albumentations as A
